@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f77fdc7f-2a23-4001-ba44-a7f389886b6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/configuration/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/controller/FoodOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/model/FoodOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/service/FoodOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/service/FoodProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/ProducerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/ProducerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/producer-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FMAthKpjhEHt7E81SJEdslj2UZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ajovanov/OneDrive - ENDAVA/Desktop/personal/Git projects/spring-kafka-async-microservices&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.ProducerServiceApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-kafka-async-microservices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-kafka-async-microservices" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <module name="consumer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consumerservice.ConsumerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="producer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.producerservice.ProducerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConsumerServiceApplication" />
+      <item itemvalue="Spring Boot.ProducerServiceApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77fdc7f-2a23-4001-ba44-a7f389886b6d" name="Changes" comment="" />
+      <created>1664291805437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664291805437</updated>
+      <workItem from="1664291811522" duration="5081000" />
+      <workItem from="1664317232502" duration="156000" />
+      <workItem from="1664317492950" duration="99000" />
+      <workItem from="1664317621537" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

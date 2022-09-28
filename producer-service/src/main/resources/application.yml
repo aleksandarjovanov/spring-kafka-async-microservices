@@ -1,0 +1,5 @@
+topic.name: t.food.order
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    # by default it is 9092 but you can change it here, remember to change the port of broker in docker-compose.yml as well
