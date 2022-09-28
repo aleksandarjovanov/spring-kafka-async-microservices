@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f77fdc7f-2a23-4001-ba44-a7f389886b6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/configuration/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/controller/FoodOrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/model/FoodOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/service/FoodOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/service/FoodProducerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/ProducerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer-service/src/main/java/com/example/producerservice/ProducerServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_modelmapper_modelmapper_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/java/com/example/consumerservice/configuration/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/java/com/example/consumerservice/model/FoodOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/java/com/example/consumerservice/model/FoodOrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/java/com/example/consumerservice/repository/FoodOrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/java/com/example/consumerservice/service/FoodConsumerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/java/com/example/consumerservice/service/FoodOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/producer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/producer-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ajovanov/OneDrive - ENDAVA/Desktop/personal/Git projects/spring-kafka-async-microservices&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ajovanov/OneDrive - ENDAVA/Desktop/personal/Git projects/webflux-publish-subscribe",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "e3c9dfece1834ec5e6b5e8a7070ac41b"
   }
-}</component>
-  <component name="RunManager" selected="Spring Boot.ProducerServiceApplication">
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ConsumerServiceApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="spring-kafka-async-microservices" />
       <method v="2">
@@ -110,6 +119,7 @@
       <workItem from="1664317232502" duration="156000" />
       <workItem from="1664317492950" duration="99000" />
       <workItem from="1664317621537" duration="326000" />
+      <workItem from="1664364349579" duration="4317000" />
     </task>
     <servers />
   </component>
