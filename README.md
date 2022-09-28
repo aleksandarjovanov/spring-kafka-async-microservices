@@ -2,6 +2,7 @@
 Demo project for better understanding the producet-consumer scenarion with Kafka between two microservices.
 The Kafka configuration is provided in a docker-compose.yml file.
 To start, navigate to the root of the project and run: ``` docker-compose up -d ```.
+Kafdrop is accessible at [localhost:9000](http://localhost:9000/)
 PostgreSQL database with a name kafka on default port is also needed.
 
 ### Technologies used
